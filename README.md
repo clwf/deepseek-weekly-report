@@ -13,6 +13,10 @@
 ## 快速开始
 
 ### 1. 安装依赖
-
-```bash
 pip install openai python-dotenv
+
+### 2. 配置 API Key
+DEEPSEEK_API_KEY=sk-你的密钥
+
+### 3.运行
+python report_generator.py
