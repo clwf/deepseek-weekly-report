@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>DeepSeek 自动化周报生成器</h1>
-  <h3>📝 输入关键词，一键生成结构化周报</h3>
-  <p><em>基于 DeepSeek API 的智能周报生成工具，告别手动写周报的烦恼</em></p>
+  <h3>基于 DeepSeek API 的智能周报生成工具</h3>
+  <p><em>通过输入工作关键词，自动生成结构化的专业周报</em></p>
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/DeepSeek-API-0066FF?style=flat" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="License"/>
